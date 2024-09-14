@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203">Vikalp Shukla</a></h1>
-<h3 align="center">Skilled and results-oriented IT professional with 7+ years of diverse experience specializing in Google Cloud solutions, Linux, and VMware administration.</h3>
+<h3 align="justify">Summary:</a></h3>
+<p align="justify">Skilled and results-oriented IT professional with 7+ years of diverse experience specializing in Google
+Cloud solutions, Linux and VMware administration. Demonstrated expertise in designing and
+implementing robust cloud-based infrastructures, proficient in application deployments, providing critical
+production support, and implementing DevOps fundamentals to enhance scalability, reliability of
+systems and operational efficiency.</p>
 
-- 🔭 I’m currently working on **Google Cloud**
+- I’m currently working on **Google Cloud** ☁️
 
-- 🌱 I’m currently learning **DevOps, AI/ML**
+- I’m currently learning **DevOps, AI/ML** 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
