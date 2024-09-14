@@ -16,10 +16,10 @@
 <h3 align="left">Professional Certifications:</h3>
 <p align="left">
 <div style="display: flex; flex-wrap: nowrap; overflow-x: auto;">
-    <a href="https://rhtapps.redhat.com/verify?certId=210-070-371" target="_blank"><img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="100" /></a>
-    <a href="https://www.credly.com/badges/efb9da12-d3cc-4016-aedf-d7f64abc6234" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45954152" width="100" /></a>
-    <a href="https://www.credly.com/badges/cc0ccc41-7c73-48d2-998b-d83f187fe8cb" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66478551" width="100" /></a>
-    <a href="https://www.credly.com/badges/42b331cb-708c-4ea7-9fdf-7a13447684c5" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73412563" width="100" /></a>
-    <a href="https://www.credly.com/badges/bd470126-3a93-4407-898c-6431c5e61568" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55773486" width="100" /></a>
+    <a href="https://rhtapps.redhat.com/verify?certId=210-070-371" target="_blank"><img src="https://images.credly.com/size/680x680/images/572de0ba-2c59-4816-a59d-b0e1687e45ee/image.png" width="120" /></a>
+    <a href="https://www.credly.com/badges/efb9da12-d3cc-4016-aedf-d7f64abc6234" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/45954152" width="120" /></a>
+    <a href="https://www.credly.com/badges/cc0ccc41-7c73-48d2-998b-d83f187fe8cb" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66478551" width="120" /></a>
+    <a href="https://www.credly.com/badges/42b331cb-708c-4ea7-9fdf-7a13447684c5" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/73412563" width="120" /></a>
+    <a href="https://www.credly.com/badges/bd470126-3a93-4407-898c-6431c5e61568" target="_blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/55773486" width="120" /></a>
 </div>
 </p>
