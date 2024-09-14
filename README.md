@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vikalp Shukla</h1>
-<h3 align="center">Skilled and results-oriented IT professional with 7+ years of diverse experience specializing in Google Cloud solutions, Linux and VMware administration.</h3>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203">Vikalp Shukla</a></h1>
+<h3 align="center">Skilled and results-oriented IT professional with 7+ years of diverse experience specializing in Google Cloud solutions, Linux, and VMware administration.</h3>
 
 - 🔭 I’m currently working on **Google Cloud**
 
