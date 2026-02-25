@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203">Vikalp Shukla</a></h1>
 <h3 align="justify">Summary:</a></h3>
-<p align="justify">Skilled and results-oriented IT professional with 7.5 years of diverse experience specializing in Google
-Cloud solutions, Linux/Unix, VMware, and Rubrik administration. Demonstrated expertise in designing
-and implementing robust cloud-based infrastructures, proficient in application deployments, providing
-critical production support, and implementing DevOps fundamentals to enhance scalability, reliability of
-systems and operational efficiency. Adept at drafting KBs and SOPs, effectively improving teams
-knowledge and procedural adherence. With a proven track record of driving projects to successful
-completion, I am adept at leveraging technical acumen and strategic insights to deliver high-quality
-solutions that align with organizational goals.</p>
+<p align="justify">Skilled and results-oriented IT professional with around 8 years of experience across multi-cloud infrastructure, production support, and customer-focused engineering roles. I specialize in building production-grade cloud platforms (GCP, Azure, and AWS) that handle mission-critical workloads with strong reliability, security, and cost efficiency. My work focuses on turning complex business requirements into scalable architectures that improve system resilience, reduce operational risk, and enable faster product delivery.
+
+I have partnered cross-functionally with Engineering, Product, Sales, and executive stakeholders to deliver infrastructure that scales with both traffic and organizational growth. I prioritize measurable outcomes such as uptime improvement, deployment acceleration, cost optimization, and reduced incident frequency.
+
+Interested in roles where I can drive customer outcomes, help organizations modernize and scale in high-growth, high-impact environments.</p>
 
 - I’m currently working on **Google Cloud** ☁️
 
