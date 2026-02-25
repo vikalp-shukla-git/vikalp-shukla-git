@@ -1,14 +1,33 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203">Vikalp Shukla</a></h1>
 <h3 align="justify">Summary:</a></h3>
-<p align="justify">Skilled and results-oriented IT professional with around 8 years of experience across multi-cloud infrastructure, production support, and customer-focused engineering roles. I specialize in building production-grade cloud platforms (GCP, Azure, and AWS) that handle mission-critical workloads with strong reliability, security, and cost efficiency. My work focuses on turning complex business requirements into scalable architectures that improve system resilience, reduce operational risk, and enable faster product delivery.
+<p align="justify">Skilled and results-oriented IT professional with around **8 years** of experience across multi-cloud infrastructure, production support, and customer-focused engineering roles. I specialize in building production-grade cloud platforms (GCP, Azure, and AWS) that handle mission-critical workloads with strong reliability, security, and cost efficiency. My work focuses on turning complex business requirements into scalable architectures that improve system resilience, reduce operational risk, and enable faster product delivery.
 
 I have partnered cross-functionally with Engineering, Product, Sales, and executive stakeholders to deliver infrastructure that scales with both traffic and organizational growth. I prioritize measurable outcomes such as uptime improvement, deployment acceleration, cost optimization, and reduced incident frequency.
 
 Interested in roles where I can drive customer outcomes, help organizations modernize and scale in high-growth, high-impact environments.</p>
 
-- I’m currently working on **Google Cloud** ☁️
+💼 Technical Skills
 
-- I’m currently learning **DevOps, AI/ML** 🚀
+☁️ Architecture & Cloud Platforms:
+GCP (Compute Engine, GKE, VPC, Cloud Load Balancing, Cloud NAT, Cloud DNS, Cloud Armor, Private Service Connect, Private Google Access, IAM, VPC Service Controls, IAP, Security Command Center, Cloud Logging, Cloud Monitoring), AWS (EC2, S3, IAM, VPC, Security Groups), Azure (Virtual Machines, VNet, Storage Accounts)
+
+🧠 Data, Analytics & AI Platforms:
+Databricks Lakehouse, Apache Spark (SQL, Structured Streaming), Delta Lake, Unity Catalog, MLflow, Distributed Data Pipelines (Batch & Streaming), Data Engineering, Data Warehousing, AI/ML & LLM Workloads, GPU Compute Optimization
+
+🐳 Kubernetes & Containers:
+Kubernetes (K8s), Google Kubernetes Engine (GKE), Node Pools, HPA, VPA, Cluster Autoscaler, Workload Identity, RBAC, Resource Quotas, Pod Scheduling, Microservices Architecture
+
+🌐 Networking & Connectivity:
+Cloud Load Balancing (L4/L7), NAT Gateways, Cloud NAT, Ingress/Egress Traffic Control, Firewall Rules & Security Groups, TLS/SSL, HTTP/HTTPS, Network Troubleshooting (Latency, Packet Loss, MTU, Routing)
+
+🔐 Security & Governance:
+IAM, RBAC, VPC Service Controls, IAP, Encryption, Secret Manager, Access Context Manager, Cloud Security Posture, Data Governance, Backup & Disaster Recovery (Rubrik)
+
+🖥️ Infrastructure & Virtualization:
+Linux/Unix (RHEL, Ubuntu, CentOS, Solaris), VMware vSphere/vCenter (HA, DRS, vMotion), LVM, SSH, Swap, Shell, Upgrades
+
+📊 SRE & Observability:
+Git, GitHub, Jenkins, Rundeck, Chef, CI/CD Fundamentals, Incident Management, RCA, SLA/SLO/SLIs, Prometheus, Grafana, Cloud Monitoring, Dynatrace, Nagios
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
