@@ -1,33 +1,45 @@
 <h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/vikalp-shukla-a9b36b203">Vikalp Shukla</a></h1>
-<h3 align="justify">Summary:</a></h3>
+<h3 align="justify">Summary:</h3>
 <p align="justify">Skilled and results-oriented IT professional with around 8 years of experience across multi-cloud infrastructure, production support, and customer-focused engineering roles. I specialize in building production-grade cloud platforms (GCP, Azure, and AWS) that handle mission-critical workloads with strong reliability, security, and cost efficiency. My work focuses on turning complex business requirements into scalable architectures that improve system resilience, reduce operational risk, and enable faster product delivery.
-
 I have partnered cross-functionally with Engineering, Product, Sales, and executive stakeholders to deliver infrastructure that scales with both traffic and organizational growth. I prioritize measurable outcomes such as uptime improvement, deployment acceleration, cost optimization, and reduced incident frequency.
-
 Interested in roles where I can drive customer outcomes, help organizations modernize and scale in high-growth, high-impact environments.</p>
 
-💼 Technical Skills
+<h3 align="justify">💼 Technical Skills</h3>
 
-☁️ Architecture & Cloud Platforms:
+<p align="justify">
+☁️ <strong>Architecture & Cloud Platforms:</strong><br>
 GCP (Compute Engine, GKE, VPC, Cloud Load Balancing, Cloud NAT, Cloud DNS, Cloud Armor, Private Service Connect, Private Google Access, IAM, VPC Service Controls, IAP, Security Command Center, Cloud Logging, Cloud Monitoring), AWS (EC2, S3, IAM, VPC, Security Groups), Azure (Virtual Machines, VNet, Storage Accounts)
+</p>
 
-🧠 Data, Analytics & AI Platforms:
+<p align="justify">
+🧠 <strong>Data, Analytics & AI Platforms:</strong><br>
 Databricks Lakehouse, Apache Spark (SQL, Structured Streaming), Delta Lake, Unity Catalog, MLflow, Distributed Data Pipelines (Batch & Streaming), Data Engineering, Data Warehousing, AI/ML & LLM Workloads, GPU Compute Optimization
+</p>
 
-🐳 Kubernetes & Containers:
+<p align="justify">
+🐳 <strong>Kubernetes & Containers:</strong><br>
 Kubernetes (K8s), Google Kubernetes Engine (GKE), Node Pools, HPA, VPA, Cluster Autoscaler, Workload Identity, RBAC, Resource Quotas, Pod Scheduling, Microservices Architecture
+</p>
 
-🌐 Networking & Connectivity:
+<p align="justify">
+🌐 <strong>Networking & Connectivity:</strong><br>
 Cloud Load Balancing (L4/L7), NAT Gateways, Cloud NAT, Ingress/Egress Traffic Control, Firewall Rules & Security Groups, TLS/SSL, HTTP/HTTPS, Network Troubleshooting (Latency, Packet Loss, MTU, Routing)
+</p>
 
-🔐 Security & Governance:
+<p align="justify">
+🔐 <strong>Security & Governance:</strong><br>
 IAM, RBAC, VPC Service Controls, IAP, Encryption, Secret Manager, Access Context Manager, Cloud Security Posture, Data Governance, Backup & Disaster Recovery (Rubrik)
+</p>
 
-🖥️ Infrastructure & Virtualization:
+<p align="justify">
+🖥️ <strong>Infrastructure & Virtualization:</strong><br>
 Linux/Unix (RHEL, Ubuntu, CentOS, Solaris), VMware vSphere/vCenter (HA, DRS, vMotion), LVM, SSH, Swap, Shell, Upgrades
+</p>
 
-📊 SRE & Observability:
+<p align="justify">
+📊 <strong>SRE & Observability:</strong><br>
 Git, GitHub, Jenkins, Rundeck, Chef, CI/CD Fundamentals, Incident Management, RCA, SLA/SLO/SLIs, Prometheus, Grafana, Cloud Monitoring, Dynatrace, Nagios
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
